@@ -1,0 +1,32 @@
+.container {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .newset {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .select-exercise {
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  input#reps-input {
+    width: 71px;
+    margin: 10px;
+  }
+  
+  input#weight-input {
+    margin: 10px;
+  }
+  
+  .newdiv {
+    margin-top: 20px;
+  }
+  
